@@ -21,7 +21,6 @@
     "ember-cli-babel": "^6.6.0",
     "ember-cli-htmlbars": "^2.0.1",
     "ember-data": "^2.17.0",
-    "ember-cli-document-title": "^0.3.3",
     "ember-cli-sass": "^7.1.1",
     "ember-wormhole": "^0.3.4"
   },
