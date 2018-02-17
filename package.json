@@ -24,7 +24,8 @@
     "ember-cli-sass": "7.1.1",
     "ember-data": "2.17.0",
     "ember-route-action-helper": "2.0.6",
-    "ember-wormhole": "0.3.4"
+    "ember-wormhole": "0.3.4",
+    "ember-simple-auth": "1.4.0"
   },
   "devDependencies": {
     "broccoli-asset-rev": "2.4.5",
@@ -40,8 +41,8 @@
     "ember-cli-uglify": "2.0.0",
     "ember-disable-prototype-extensions": "1.1.2",
     "ember-export-application-global": "2.0.0",
-    "ember-mousetrap": "0.3.1",
     "ember-load-initializers": "1.0.0",
+    "ember-mousetrap": "0.3.1",
     "ember-resolver": "4.0.0",
     "ember-source": "2.16.2",
     "liquid-fire": "0.29.1",
